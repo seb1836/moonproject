@@ -1,0 +1,237 @@
+header {
+
+	background-color: grey;
+	padding: 33px;
+	width: 100%;
+	
+	
+}
+
+ul li {
+
+	color: white;
+	/* Font-color ne marche pas?*/
+	display: inline-block;
+	text-decoration: none;
+	padding-right: 49px;
+
+}
+
+.toolbar {
+	padding-left: 300px;
+
+}
+
+.container {
+	margin-top: 50px;
+	margin-left: 350px;
+	color: white;
+	
+}
+
+.titresite{
+	font-weight: bold;
+}
+
+html
+{
+	background-image: url("../img/background2.jpg");
+	color:white;
+}
+
+.border {
+	margin-top: 250px;
+	border-top: 1px solid white;
+    width : 80%; 
+}
+
+.infos {
+	text-align: center;
+	margin-top: 25px;
+	
+}
+
+
+.blabla {
+	display: flex;
+}
+
+.contact {
+	
+	
+}
+
+.titre2 {
+	
+	/* valeur négative car margin top marche pas */
+	font-size: 25px;
+	font-weight: bold;
+	padding-left: 45px;
+
+}
+
+.borderbas{
+	border-bottom: 1px solid white;
+	width : 80%;
+	margin-top: 100px;
+}
+
+.titre {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+img {
+	border-radius: 50%;
+	
+}
+
+.description {
+	
+}
+
+h2{
+	
+	padding-left: 100px;
+}
+
+.row{
+display: flex;
+}
+
+.mars{
+	
+}
+
+.saturne{
+	
+}
+.lune{
+		
+}
+
+.resume{
+	/*display inline block ne fonctionne pas */
+}
+
+.descmars{
+	
+	/*display: inline; ne marche pas */
+}
+
+.descsaturne{
+	
+	/*display: inline; ne marche pas */
+
+	/*because fuck it*/
+}
+
+.desclune{
+
+}
+
+.venus{
+	padding-left: 350px;
+}
+
+.neptune{
+	
+}
+
+.soleil{
+	
+}
+
+.descvenus{
+	
+}
+
+.descneptune{
+	
+}
+.descsoleil {
+
+}
+
+.mercure {
+	padding-left: 350px;
+}
+
+.jupiter {
+	
+}
+.terre{
+	
+}
+
+.descmercure {
+	
+}
+.descjupiter {
+
+}
+
+.descterre {
+
+}
+
+.ceres {
+	padding-left: 350px;
+}
+
+.pluton {
+	
+}
+
+.haumea{
+	
+}
+
+.descceres{
+	
+}
+
+.descpluton{
+
+}
+
+.deschaumea{
+
+}
+
+.uranus{
+	padding-left: 355px;
+}
+.makemake{
+	
+}
+
+.eris{
+	
+}
+.descuranus{
+	
+}
+
+.descmakemake{
+
+}
+
+.desceris{
+
+}
+footer {
+	
+	border-top: 1px solid white;
+    width : 100%; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.goal{
+	max-width: 825px;
+}
+
+.adresse{
+
+}
